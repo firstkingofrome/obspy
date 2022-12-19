@@ -12,7 +12,7 @@ Changes:
      wildcards (see #3232)
  - obspy.taup:
    * bugfix to allow calculations for a model with no discontinuities
-     (see #3070)
+     (see #3070, #3244)
 
 1.4.0 (doi: 10.5281/zenodo.6645832)
 ===================================
